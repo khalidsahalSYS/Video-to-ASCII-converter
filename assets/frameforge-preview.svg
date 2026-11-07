@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Frameforge interface preview</title>
+  <desc id="desc">An illustrative dark-themed video-to-ASCII converter interface with a character-art preview and playback controls.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1020"/>
+      <stop offset="1" stop-color="#17152c"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#28d7c2"/>
+    </linearGradient>
+    <clipPath id="screen"><rect x="65" y="168" width="680" height="405" rx="16"/></clipPath>
+  </defs>
+  <rect width="1200" height="680" rx="28" fill="url(#bg)"/>
+  <circle cx="1070" cy="90" r="200" fill="#745bff" opacity=".08"/>
+  <circle cx="130" cy="620" r="230" fill="#28d7c2" opacity=".05"/>
+  <rect x="35" y="32" width="1130" height="616" rx="24" fill="#101426" stroke="#2b3048"/>
+  <circle cx="68" cy="68" r="7" fill="#ff6d7f"/>
+  <circle cx="92" cy="68" r="7" fill="#ffc857"/>
+  <circle cx="116" cy="68" r="7" fill="#35d39a"/>
+  <text x="600" y="73" text-anchor="middle" fill="#a9adc1" font-family="Arial,sans-serif" font-size="14">FRAMEFORGE · VIDEO TO ASCII</text>
+  <text x="65" y="131" fill="#f5f4ff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Your video, reimagined.</text>
+  <text x="65" y="154" fill="#858ba4" font-family="Arial,sans-serif" font-size="13">A live ASCII preview, rendered locally in your browser.</text>
+  <rect x="65" y="168" width="680" height="405" rx="16" fill="#080b13" stroke="#30364c"/>
+  <g clip-path="url(#screen)" fill="#d5d9ee" font-family="monospace" font-size="13" xml:space="preserve" opacity=".91">
+    <text x="88" y="202"> .,:;!i1tfLCG08@  .,:;!i1tfLCG08@  .,:;!i1tfLCG08@</text>
+    <text x="88" y="222">,:;!i1tfLCG08@@@  ,:;!i1tfLCG08@@@  ,:;!i1tfLCG08@@</text>
+    <text x="88" y="242">;!i1tfLCG08@@@@@  ;!i1tfLCG08@@@@@  ;!i1tfLCG08@@@</text>
+    <text x="88" y="262">i1tfLCG08@@@@@@@  i1tfLCG08@@@@@@@  i1tfLCG08@@@@@</text>
+    <text x="88" y="282">tfLCG08@@@...@@@  tfLCG08@@@...@@@  tfLCG08@@@..@@</text>
+    <text x="88" y="302">LCG08@@@..   .@@  LCG08@@@..   .@@  LCG08@@@..   .@</text>
+    <text x="88" y="322">G08@@@..       .  G08@@@..       .  G08@@@..       .</text>
+    <text x="88" y="342">08@@@..   .      08@@@..   .      08@@@..   .      </text>
+    <text x="88" y="362">8@@@..  .:;:.    8@@@..  .:;:.    8@@@..  .:;:.    </text>
+    <text x="88" y="382">@@@..  ;!i1tf;   @@@..  ;!i1tf;   @@@..  ;!i1tf;   </text>
+    <text x="88" y="402">@@..  :LCG08@@:  @@..  :LCG08@@:  @@..  :LCG08@@:  </text>
+    <text x="88" y="422">@..  .G08@@@@@@. @..  .G08@@@@@@. @..  .G08@@@@@@.</text>
+    <text x="88" y="442">..   08@@@@@@@@@@..   08@@@@@@@@@@..   08@@@@@@@@@@</text>
+    <text x="88" y="462">.   8@@@..  .@@@@.   8@@@..  .@@@@.   8@@@..  .@@@@</text>
+    <text x="88" y="482">   @@@..    .@@@@   @@@..    .@@@@   @@@..    .@@@@</text>
+    <text x="88" y="502">  @@..       .@@@  @@..       .@@@  @@..       .@@@</text>
+    <text x="88" y="522"> .@..         .@@ .@..         .@@ .@..         .@@</text>
+    <text x="88" y="542">,:;!i1tfLCG08@@@  ,:;!i1tfLCG08@@@  ,:;!i1tfLCG08@@</text>
+  </g>
+  <rect x="775" y="168" width="350" height="405" rx="16" fill="#171c2e" stroke="#30364c"/>
+  <text x="802" y="207" fill="#f5f4ff" font-family="Arial,sans-serif" font-size="17" font-weight="700">Adjust your output</text>
+  <text x="802" y="250" fill="#a0a6bc" font-family="Arial,sans-serif" font-size="13">OUTPUT WIDTH</text>
+  <rect x="802" y="264" width="296" height="42" rx="9" fill="#0e1220" stroke="#343a52"/>
+  <text x="820" y="291" fill="#e7e8f2" font-family="Arial,sans-serif" font-size="14">120 characters</text>
+  <text x="802" y="340" fill="#a0a6bc" font-family="Arial,sans-serif" font-size="13">FRAME RATE</text>
+  <rect x="802" y="354" width="296" height="42" rx="9" fill="#0e1220" stroke="#343a52"/>
+  <text x="820" y="381" fill="#e7e8f2" font-family="Arial,sans-serif" font-size="14">24 FPS</text>
+  <text x="802" y="430" fill="#a0a6bc" font-family="Arial,sans-serif" font-size="13">CHARACTER STYLE</text>
+  <rect x="802" y="444" width="296" height="42" rx="9" fill="#0e1220" stroke="#343a52"/>
+  <text x="820" y="471" fill="#e7e8f2" font-family="monospace" font-size="14">@%#*+=-:. </text>
+  <rect x="802" y="507" width="16" height="16" rx="4" fill="#7c5cff"/>
+  <path d="M806 515l4 4 7-8" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="828" y="520" fill="#d8dbea" font-family="Arial,sans-serif" font-size="13">Invert luminance</text>
+  <rect x="65" y="590" width="1060" height="36" rx="10" fill="#1b2033"/>
+  <circle cx="91" cy="608" r="10" fill="url(#glow)"/>
+  <path d="M89 602l8 6-8 6z" fill="#fff"/>
+  <rect x="119" y="605" width="725" height="6" rx="3" fill="#343a52"/>
+  <rect x="119" y="605" width="282" height="6" rx="3" fill="url(#glow)"/>
+  <circle cx="401" cy="608" r="7" fill="#f5f4ff"/>
+  <text x="875" y="613" fill="#c3c7d8" font-family="Arial,sans-serif" font-size="12">00:12 / 00:48</text>
+  <text x="1050" y="613" text-anchor="end" fill="#7f879f" font-family="Arial,sans-serif" font-size="11">ILLUSTRATIVE PREVIEW</text>
+</svg>
